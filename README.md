@@ -1,13 +1,12 @@
 # Olá, seja bem-vindo(a)! 👋
 
-Sou um gestor de propriedades (síndico) em Florianópolis, apaixonado pela intersecção entre a **gestão estratégica** e a **ciência de dados**. Meu foco atual é utilizar a tecnologia para otimizar processos operacionais e aprimorar a tomada de decisão.
+Sou um analista de sistemas, apaixonado pela intersecção entre a **processos** e a **ciência de dados**. Meu foco é utilizar a tecnologia para otimizar processos operacionais e aprimorar a tomada de decisão.
 
 ---
 
 ### 🛠 Tech Stack & Habilidades
 *   **Dados:** SQL (especializado em MySQL), Metodologia Google Data Analytics (Ask, Prepare, Process, Analyze, Share, Act).
 *   **IA & Engenharia:** Pesquisa avançada em Engenharia de Prompt (Chain-of-Thought, Least-to-Most).
-*   **Gestão:** Administração Condominial, Gestão de Conflitos e Propostas Comerciais estruturadas.
 
 ---
 
@@ -26,21 +25,3 @@ Atualmente, dedico meu tempo a:
 
 ---
 *“A informação correta é a base para a melhor decisão.”*
-
-
-## Hi there 👋
-
-<!--
-**HilarioGouveia/HilarioGouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
